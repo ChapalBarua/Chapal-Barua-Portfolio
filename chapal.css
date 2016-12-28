@@ -1,0 +1,36 @@
+#ab{color:green;}
+#ad{color:#DE5D83;}
+#ae{color:#004225;}
+.heading{text-align:center;}
+*{background-color:#E7FEFF;}
+.af{color:#702963;}
+a{color:blue;
+font-size:18px;}
+#ac{
+display:block;
+margin:auto;
+}
+.box {
+    float: left;
+    width: 470px;
+    height:260px;
+}
+
+
+#bt,#btt,#bttt{
+    float:right;
+    height:260px;
+    margin-right: 10px;
+    padding: 5px;
+}
+.work{width: 1200px;}
+#bttt{width:240px;}
+#bt,#btt{width:100px;}
+
+
+
+
+
+
+
+
